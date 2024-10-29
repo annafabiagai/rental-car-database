@@ -1,2 +1,3 @@
 # rental-car-database
 The project aimed to design a car rental company database, using MySQL and PostgreSQL, by defining all the conceptual and logical designs .
+Each table presents attributes and given and user-defined con-straints. The aim of the project was to represent a single company in a concise, yet complete way, but also simple to use and to query on. The resulting database system provides a robust platform for the car rental company to streamline its processes via a decomposition in multiple, linked, tables to keep control of billing, reservations and number of active customers, with a system to balance the type of car with the driver.
